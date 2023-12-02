@@ -33,7 +33,7 @@ def getCalForString(stringA):
 
 
 def main():
-    file1 = open('Day 1\\input.txt', 'r')
+    file1 = open('2023\day1\input.txt', 'r')
     Lines = file1.readlines()
     print(Lines)
     sums = 0
